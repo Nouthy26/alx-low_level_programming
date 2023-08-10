@@ -1,8 +1,6 @@
-1 - string_nconcat.c
-
 #include <stdlib.h>
 #include "main.h"
-#include <stddef.h>
+
 /**
  * *string_nconcat - concatenates n bytes of a string to another string
  * @s1: string to append to
